@@ -1,6 +1,6 @@
 # Introduction to our online tools
 
-itself tools develop online tools that are executed locally on your device. So our tools don't need to send your files or audio and video data over the internet in order to process them. All the work is done locally by the browser itself, making our tools fast and secure! Note that if you use our location or sharing tools, location data or the data you share will be sent over the internet.
+itself tools (<a href="https://itselftools.com" target="_blank">itselftools.com</a>) develop online tools that are executed locally on your device. So our tools don't need to send your files or audio and video data over the internet in order to process them. All the work is done locally by the browser itself, making our tools fast and secure! Note that if you use our location or sharing tools, location data or the data you share will be sent over the internet.
 
 Whereas most other online tools send files to remote servers in order to perform operations on them, we don't. With us, your privacy is protected.
 
